@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE checkAvailability SYSTEM
+        "C:\Git\Java\User Driven Acceptance Test - Phone Depot\src\main\resources\availability.dtd">
+<checkAvailability>
+    <item>Antena</item>
+    <quantity>10</quantity>
+</checkAvailability>
