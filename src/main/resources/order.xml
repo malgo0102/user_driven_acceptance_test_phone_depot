@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE order SYSTEM
+        "C:\Git\Java\User Driven Acceptance Test - Phone Depot\src\main\resources\order.dtd">
+<order>
+    <orderedBy>User 1</orderedBy>
+    <item>Cable</item>
+    <quantity>70</quantity>
+</order>

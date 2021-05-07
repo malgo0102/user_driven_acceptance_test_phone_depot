@@ -1,0 +1,7 @@
+<!ELEMENT message (fromUser,toUser,sendFromLocation,sendToLocation,item,quantity)>
+<!ELEMENT fromUser (#PCDATA)>
+<!ELEMENT toUser (#PCDATA)>
+<!ELEMENT sendFromLocation (#PCDATA)>
+<!ELEMENT sendToLocation (#PCDATA)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>

@@ -1,0 +1,3 @@
+<!ELEMENT checkAvailability (item, quantity)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>

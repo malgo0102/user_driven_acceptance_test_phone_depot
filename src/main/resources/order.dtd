@@ -1,0 +1,4 @@
+<!ELEMENT order (orderedBy,item,quantity)>
+<!ELEMENT orderedBy (#PCDATA)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
