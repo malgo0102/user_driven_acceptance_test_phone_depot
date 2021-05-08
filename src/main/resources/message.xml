@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE message SYSTEM
-        "C:\Git\Java\User Driven Acceptance Test - Phone Depot\src\main\resources\message.dtd">
+        "message.dtd">
 <message>
     <fromUser>User 1</fromUser>
     <toUser>User 2</toUser>
